@@ -1,0 +1,22 @@
+{
+  "name": "medium-fetch",
+  "version": "1.0.0",
+  "description": "Medium RSS feed api for JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "medium",
+    "medium",
+    "rss",
+    "medium",
+    "fetch"
+  ],
+  "author": "Feyyaz Numan Cavlak",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
